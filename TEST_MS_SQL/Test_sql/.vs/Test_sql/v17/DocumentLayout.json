@@ -1,0 +1,35 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROPTIT - TEAM WEB\\BACK-END\\Web-Back-end\\TEST_MS_SQL\\Test_sql\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF7A807-8987-EE4D-CB36-78CA54E81C9C}|Test_sql\\Test_sql.ssmssqlproj|D:\\PROPTIT - TEAM WEB\\BACK-END\\Web-Back-end\\TEST_MS_SQL\\Test_sql\\Test_sql\\CreateDatabase.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{FDF7A807-8987-EE4D-CB36-78CA54E81C9C}|Test_sql\\Test_sql.ssmssqlproj|solutionrelative:Test_sql\\CreateDatabase.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateDatabase.sql - not connected",
+              "DocumentMoniker": "D:\\PROPTIT - TEAM WEB\\BACK-END\\Web-Back-end\\TEST_MS_SQL\\Test_sql\\Test_sql\\CreateDatabase.sql",
+              "RelativeDocumentMoniker": "Test_sql\\CreateDatabase.sql",
+              "ToolTip": "CreateDatabase.sql - not connected",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-04T10:19:48.021Z",
+              "EditorCaption": " - not connected"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
